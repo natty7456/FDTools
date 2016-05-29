@@ -1,0 +1,6 @@
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\bin\FDTools.dll.config
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\bin\FDTools.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\bin\FDTools.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\obj\Debug\FDTools.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\obj\Debug\FDTools.dll
+c:\users\administrator\documents\visual studio 2013\Projects\FDTools\FDTools\obj\Debug\FDTools.pdb
