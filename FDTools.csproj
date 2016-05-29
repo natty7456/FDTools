@@ -54,8 +54,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Default.aspx" />
+    <Content Include="Pages\Buttons.aspx" />
     <Content Include="Pages\Forms.aspx" />
     <Content Include="Pages\Home.aspx" />
+    <Content Include="Pages\Tables.aspx" />
+    <Content Include="Pages\WebForm1.aspx" />
+    <Content Include="Resource\jquery-1.8.3.min.js" />
     <Content Include="Resource\matrix-admin\buttons.html" />
     <Content Include="Resource\matrix-admin\calendar.html" />
     <Content Include="Resource\matrix-admin\charts.html" />
@@ -166,6 +170,13 @@
     <Compile Include="Default.aspx.designer.cs">
       <DependentUpon>Default.aspx</DependentUpon>
     </Compile>
+    <Compile Include="Pages\Buttons.aspx.cs">
+      <DependentUpon>Buttons.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Buttons.aspx.designer.cs">
+      <DependentUpon>Buttons.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\Forms.aspx.cs">
       <DependentUpon>Forms.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -179,6 +190,20 @@
     </Compile>
     <Compile Include="Pages\Home.aspx.designer.cs">
       <DependentUpon>Home.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Tables.aspx.cs">
+      <DependentUpon>Tables.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Tables.aspx.designer.cs">
+      <DependentUpon>Tables.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\WebForm1.aspx.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\WebForm1.aspx.designer.cs">
+      <DependentUpon>WebForm1.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
